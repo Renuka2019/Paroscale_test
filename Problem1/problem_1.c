@@ -186,7 +186,7 @@ int main(int argc, const char *argv[])
          printf("no of  files in directory %s = %d\n",str,no_of_files_in_each_directory);
          printf("-----------------------------------------------------------------------\n\n");
          no_of_sub_directory_in_directory = 0;
-         no_of_sub_directory_in_directory = 0;
+         no_of_files_in_each_directory = 0;
 
 
         memset(str,0,100);
